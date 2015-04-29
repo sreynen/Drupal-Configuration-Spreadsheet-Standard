@@ -5,7 +5,7 @@ The goal of the Drupal Configuration Spreadsheet Standard is to provide a common
 
 ## Example
 
-An example document matching this standard is available at https://docs.google.com/spreadsheet/ccc?key=0Ak5zX7FSC8XFdG1TcC1nNmE1cm8tQmJ5SXRyVkNOWWc and will be updated along with the standard.
+An example document matching this standard is available at https://docs.google.com/spreadsheet/ccc?key=0Ak5zX7FSC8XFdG9GSjNwY0c4WlBaN0N2X3lHa1NyWGc and will be updated along with the standard.
 
 ## Worksheets
 
